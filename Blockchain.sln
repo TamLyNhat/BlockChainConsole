@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockchain10", "Blockchain10\Blockchain10.csproj", "{D2AA20FB-A3DB-4ACF-9E0A-414D398A9C86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockChainCore", "BlockChainCore\BlockChainCore.csproj", "{75E81EC1-5067-4177-9253-326AEC67D2F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockchainCore2", "BlockchainCore2\BlockchainCore2.csproj", "{304F79C8-EDF7-4C27-8849-3A909895A206}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockChainCore3", "BlockChainCore3\BlockChainCore3.csproj", "{E3B6A480-1507-4284-8FB4-27471FD1C47A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChainCore4", "BlockChainCore4\BlockChainCore4.csproj", "{2BF17569-BB02-425A-9161-2C12822466F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AA20FB-A3DB-4ACF-9E0A-414D398A9C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AA20FB-A3DB-4ACF-9E0A-414D398A9C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AA20FB-A3DB-4ACF-9E0A-414D398A9C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AA20FB-A3DB-4ACF-9E0A-414D398A9C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E81EC1-5067-4177-9253-326AEC67D2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E81EC1-5067-4177-9253-326AEC67D2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E81EC1-5067-4177-9253-326AEC67D2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E81EC1-5067-4177-9253-326AEC67D2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304F79C8-EDF7-4C27-8849-3A909895A206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304F79C8-EDF7-4C27-8849-3A909895A206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304F79C8-EDF7-4C27-8849-3A909895A206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304F79C8-EDF7-4C27-8849-3A909895A206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B6A480-1507-4284-8FB4-27471FD1C47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B6A480-1507-4284-8FB4-27471FD1C47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B6A480-1507-4284-8FB4-27471FD1C47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B6A480-1507-4284-8FB4-27471FD1C47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF17569-BB02-425A-9161-2C12822466F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF17569-BB02-425A-9161-2C12822466F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF17569-BB02-425A-9161-2C12822466F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF17569-BB02-425A-9161-2C12822466F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA884349-EA4F-4904-8322-D978C633D740}
+	EndGlobalSection
+EndGlobal

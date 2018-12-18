@@ -1,0 +1,33 @@
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.deps.json
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.runtimeconfig.json
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.runtimeconfig.dev.json
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.dll
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.csprojAssemblyReference.cache
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.AssemblyInfoInputs.cache
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.AssemblyInfo.cs
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.pdb
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.dll
+C:\Users\MyPC\source\repos\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.pdb
+D:\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.deps.json
+D:\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.runtimeconfig.json
+D:\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.runtimeconfig.dev.json
+D:\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.dll
+D:\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.pdb
+D:\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.csprojAssemblyReference.cache
+D:\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.csproj.CoreCompileInputs.cache
+D:\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.AssemblyInfoInputs.cache
+D:\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.AssemblyInfo.cs
+D:\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.dll
+D:\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.pdb
+E:\D\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.deps.json
+E:\D\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.runtimeconfig.json
+E:\D\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.runtimeconfig.dev.json
+E:\D\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.dll
+E:\D\visual 2013\Blockchain\BlockChainCore\bin\Debug\netcoreapp2.1\BlockChainCore.pdb
+E:\D\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.csprojAssemblyReference.cache
+E:\D\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.csproj.CoreCompileInputs.cache
+E:\D\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.AssemblyInfoInputs.cache
+E:\D\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.AssemblyInfo.cs
+E:\D\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.dll
+E:\D\visual 2013\Blockchain\BlockChainCore\obj\Debug\netcoreapp2.1\BlockChainCore.pdb

@@ -1,0 +1,11 @@
+D:\visual 2013\Blockchain\BlockchainCore2\bin\Debug\netcoreapp2.1\BlockchainCore2.deps.json
+D:\visual 2013\Blockchain\BlockchainCore2\bin\Debug\netcoreapp2.1\BlockchainCore2.runtimeconfig.json
+D:\visual 2013\Blockchain\BlockchainCore2\bin\Debug\netcoreapp2.1\BlockchainCore2.runtimeconfig.dev.json
+D:\visual 2013\Blockchain\BlockchainCore2\bin\Debug\netcoreapp2.1\BlockchainCore2.dll
+D:\visual 2013\Blockchain\BlockchainCore2\bin\Debug\netcoreapp2.1\BlockchainCore2.pdb
+D:\visual 2013\Blockchain\BlockchainCore2\obj\Debug\netcoreapp2.1\BlockchainCore2.csprojAssemblyReference.cache
+D:\visual 2013\Blockchain\BlockchainCore2\obj\Debug\netcoreapp2.1\BlockchainCore2.csproj.CoreCompileInputs.cache
+D:\visual 2013\Blockchain\BlockchainCore2\obj\Debug\netcoreapp2.1\BlockchainCore2.AssemblyInfoInputs.cache
+D:\visual 2013\Blockchain\BlockchainCore2\obj\Debug\netcoreapp2.1\BlockchainCore2.AssemblyInfo.cs
+D:\visual 2013\Blockchain\BlockchainCore2\obj\Debug\netcoreapp2.1\BlockchainCore2.dll
+D:\visual 2013\Blockchain\BlockchainCore2\obj\Debug\netcoreapp2.1\BlockchainCore2.pdb

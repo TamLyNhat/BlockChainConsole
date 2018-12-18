@@ -1,0 +1,56 @@
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.deps.json
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.json
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.dev.json
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.dll
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csprojResolveAssemblyReference.cache
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csproj.CoreCompileInputs.cache
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfoInputs.cache
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfo.cs
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.pdb
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.dll
+c:\users\henry he\documents\visual studio 2017\Projects\BlockchainDemo\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.pdb
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.deps.json
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.json
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.dev.json
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.dll
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.pdb
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csprojResolveAssemblyReference.cache
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csproj.CoreCompileInputs.cache
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfoInputs.cache
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfo.cs
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.dll
+C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.pdb
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csprojResolveAssemblyReference.cache
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csproj.CoreCompileInputs.cache
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfoInputs.cache
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfo.cs
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.dll
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.pdb
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.deps.json
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.json
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.dev.json
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.dll
+C:\Repos\BlockchainSamples\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.pdb
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.deps.json
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.json
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.dev.json
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.dll
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.pdb
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csproj.CoreCompileInputs.cache
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfoInputs.cache
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfo.cs
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.dll
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.pdb
+C:\Repos\BlockchainSamples\Network\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csprojResolveAssemblyReference.cache
+C:\Repos\BlockchainSamples\P2PNetwork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.dll
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.deps.json
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.json
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.dev.json
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.dll
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.pdb
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csprojAssemblyReference.cache
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csproj.CoreCompileInputs.cache
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfoInputs.cache
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfo.cs
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.dll
+E:\D\visual 2013\Blockchain\P2PNetwork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.pdb
